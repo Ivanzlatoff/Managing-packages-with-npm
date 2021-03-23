@@ -1,6 +1,6 @@
 {
 	"author": "Ivan Zlatov",
-	"description": "A part of Free Code Camp Curriculum - API and MICROSERVICES"
+	"description": "A part of Free Code Camp Curriculum - API and MICROSERVICES",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
