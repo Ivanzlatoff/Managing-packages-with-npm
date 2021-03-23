@@ -6,7 +6,8 @@
 	"version": "1.0",
 	"keywords": ["IT study", "freecodecamp", "npm module"],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
