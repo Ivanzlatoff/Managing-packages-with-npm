@@ -3,6 +3,7 @@
 	"description": "A part of Free Code Camp Curriculum - API and MICROSERVICES",
 	"name": "fcc-learn-npm-package-json",
 	"license": "MIT",
+	"version": "1.0",
 	"keywords": ["IT study", "freecodecamp", "npm module"],
 	"dependencies": {
 		"express": "^4.14.0"
